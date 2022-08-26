@@ -1,10 +1,10 @@
 
 # Grass
 
-![icon](http://placehold.it/100](https://github.com/KNSN92/Grass/blob/main/Grass/src/com/knsn92/grass/grass.png)
+![icon](https://github.com/KNSN92/Grass/blob/main/Grass/src/com/knsn92/grass/grass.png)
 
 ## 説明:
-草を生やしたり生やし直したりするソフトです(は？)。
+草を生やしたり生やし直したりするソフトです(~は？~)。
 それでも一応開発はしていくと思いますが、内容が内容なので、せいぜいバグ修正くらいになると思います。
 
 
